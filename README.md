@@ -1,4 +1,4 @@
-#   permutohedron  ⤚ A trust-based decentralized Web/P2P AI/NLP search engine using Prolog.  
+#   permutohedron  ⤚ A trust-based P2P AI search engine using Prolog.  
 
 STATUS:  PLACEHOLDER -  PLEASE STAND BY
 
