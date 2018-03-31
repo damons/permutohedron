@@ -1,4 +1,5 @@
-#   permutohedron  ⤚ A trust-based P2P AI search engine using Prolog.  
+#   permutohedron  ⤚  Trusted Search
+A trust-based P2P AI search engine using Prolog.  
 
 STATUS:  PLACEHOLDER -  PLEASE STAND BY
 
